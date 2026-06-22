@@ -13,10 +13,10 @@ Tecnicatura Universitaria en Telecomunicaciones
 TUT PROGRAMACIÓN
 
 ## Programa Utilizado
-PseInt
+- PseInt
+- Colab
 
 ## Descripción
-En esta carpeta se encuentran los ejercicios finalizados correspondientes al Trabajo Final Integrador del 1° Cuatrimestre de Programación.
-Exceptuando el ejercicio número 10, todos los ejercicios fueron escritos en pseudocódigo PSeINT aplicando diversos estándares y prácticas como *camel case* y *delegación a funciones*, priorizando aspectos claves como **eficiencia**, **legibilidad** y la **menor cantidad de código posible**.  
+Repositorio con los ejercicios solicitados en el Trabajo Final Integrador del 1° cuatrimestre de Programación. Todos los ejercicios fueron escritos aplicando diversos estándares y prácticas como *camel case* y *delegación a funciones*, priorizando así también aspectos como **eficiencia** y **legibilidad**.
 
 ---
